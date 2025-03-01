@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1740812182 source:c:\users\user\onedrive\documents\c programing\digital clock\main.c
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+	<stdlib.h>
+
